@@ -167,7 +167,7 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -187,13 +187,29 @@
         "icon_with_text_yTAyn6": {
           "type": "icon-with-text",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/Creams_Moisturizers_1.jpg",
-            "icon-text": "dry skin"
+            "icon": "shopify:\/\/shop_images\/dot_PNG293.png",
+            "icon-text": "Kaya skin & hair care solutions"
+          }
+        },
+        "icon_with_text_THdxtz": {
+          "type": "icon-with-text",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/dot_PNG293.png",
+            "icon-text": "Kaya skin & hair care solutions"
+          }
+        },
+        "icon_with_text_tCxQwC": {
+          "type": "icon-with-text",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/dot_PNG293.png",
+            "icon-text": "Kaya skin & hair care solutions"
           }
         }
       },
       "block_order": [
-        "icon_with_text_yTAyn6"
+        "icon_with_text_yTAyn6",
+        "icon_with_text_THdxtz",
+        "icon_with_text_tCxQwC"
       ],
       "settings": {
         "color_scheme": "",
